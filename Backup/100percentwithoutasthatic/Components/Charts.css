@@ -1,0 +1,33 @@
+
+.container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container h2 {
+    color : black;
+    margin-bottom: 50px;
+  }
+
+  .charts{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+  }
+
+  .barChart{
+    padding: 10px;
+    padding: 30px;
+
+    /* width: 100%;
+    
+    height: 100%; */
+  }
+
+  .pieChart{
+    padding: 30px;
+  }

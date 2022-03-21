@@ -1,0 +1,86 @@
+.header{
+  margin-top: 20px;
+  background-color: azure;
+}
+.searchBar{
+  margin-top: 20px;
+  margin-left: 0px;
+}
+
+.paginationBttns {
+  width: 50%;
+  height: 15px;
+  list-style: none;
+  margin-left:20%;
+  margin-right:20%;
+  margin-bottom:20px;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationBttns a {
+  padding: 8px;
+  margin: 6px;
+  border-radius: 5px;
+  border: 1px solid black;
+  color: black;
+  cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  color: white;
+  background-color: #2b2eff;
+}
+
+.paginationActive a {
+  color: white;
+  background-color: #2b2eff;
+}
+
+.paginationDisabled a {
+  color: grey;
+  background-color: grey;
+}
+
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: center;
+}
+th, td {
+  padding: 3px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin-left:20%;
+  margin-right:20%;
+  text-align: center;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+
+
+.App {
+  text-align: center;
+}
+
+p{
+  padding-top: 0px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
+
