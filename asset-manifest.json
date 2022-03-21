@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/import_excel_data/static/css/main.78ba6429.css",
+    "main.js": "/import_excel_data/static/js/main.d3897586.js",
+    "index.html": "/import_excel_data/index.html",
+    "main.78ba6429.css.map": "/import_excel_data/static/css/main.78ba6429.css.map",
+    "main.d3897586.js.map": "/import_excel_data/static/js/main.d3897586.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78ba6429.css",
+    "static/js/main.d3897586.js"
+  ]
+}
